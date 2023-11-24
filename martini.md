@@ -2,7 +2,7 @@
 title: OnePlus 9RT (martini)
 description: Brought to you by Mrick343
 ---
-<a href="#"><img align="center" img src="/assets/installation.png" /></a>
+<a href="#"><img align="center" img src="/installation.png" /></a>
 
 **Please note that OOS13.1 EX01 firmware is included in these builds**
 
